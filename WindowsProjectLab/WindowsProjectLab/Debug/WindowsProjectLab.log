@@ -1,0 +1,4 @@
+﻿  WindowsProjectLab.cpp
+C:\Users\igor.anohin\source\repos\WindowsProjectLab\WindowsProjectLab\WindowsProjectLab.cpp(167,42): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\igor.anohin\source\repos\WindowsProjectLab\WindowsProjectLab\WindowsProjectLab.cpp(168,42): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+  WindowsProjectLab.vcxproj -> C:\Users\igor.anohin\source\repos\WindowsProjectLab\Debug\WindowsProjectLab.exe
