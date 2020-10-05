@@ -11,7 +11,7 @@ drawpixel proc near uses ax bx dx cx
     ; Координаты преващаем в смещение
 
     mov ax, y        ; select y
-    mov dx, 40          ; 320 / 40 = 8 -> смещение в битах
+    mov dx, 80          ; 640 / 80 = 8 -> смещение в битах
     mul dx        ; ax = y * 80 -> смещение в байтах от y
     
     mov bx, x1
