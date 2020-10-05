@@ -10,7 +10,7 @@ start:
 
 mov ax, @data     ; настройка сегмента данных
 mov ds, ax        ; через регистр ах
-mov ax, 6         ; VGA 640x480x256
+mov ax, 6         ; CGA
 int 10h           ; Прерывание BIOS 
 
 ; Init offset
